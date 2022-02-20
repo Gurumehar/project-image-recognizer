@@ -1,0 +1,34 @@
+body 
+{
+color:rgb(70, 6, 100);
+background-color: aquamarine;
+Border:2px dotted yellow;
+}
+#camera
+{
+    width:350px ;
+    height:350px ;
+    Border:2px dotted green;
+}
+.heading
+{
+    width: 80%;
+    color:darkred;
+    font-size: 25px;
+}
+.objects
+{
+    color:navy;
+}
+#object
+{
+    color:tomato;
+}
+#accuracy
+{
+    color:yellowgreen;
+}
+b
+{
+font-size: 20px;
+}
